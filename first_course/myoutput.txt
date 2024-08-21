@@ -1,0 +1,1 @@
+Enter hours: Enter rate of payment: Pay: 96.25
